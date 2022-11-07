@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Romana
-- 👀 I’m interested in becoming a software developer
+- 👀 I’m interested in working as a software developer
 - 🌱 I’m currently learning .NET and C#
 - 💞️ I’m looking to collaborate on exiting projects
 - 📫 How to reach me [on LinkedIn](https://www.linkedin.com/in/romana-leitgeb/)
